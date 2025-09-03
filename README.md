@@ -15,7 +15,7 @@ This project presents interactive Airbnb dashboards built in Power BI to analyze
 4. **Seasonal & Regional Trends**
 	•	Occupancy and pricing trends by month, quarter, and season
 	•	Peak season detection combining revenue + occupancy
-	•	Regional revenue share by ZIP code and city (Top 5 & Top 10)
+	•	Regional revenue share by ZIP code and city (Top 5)
 
 🛠 **Tools & Technologies**
 
